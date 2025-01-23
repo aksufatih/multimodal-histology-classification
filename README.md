@@ -45,4 +45,18 @@ The JSON file should have the following format:
     "collection2": "/path/to/preprocessed/images"
 }
 ```
-The results of the experiment will be saved to `./results/results.csv`
+The
+results of the experiment will be saved to `./results/results.csv`
+
+## Citation
+
+```bibtex
+@inproceedings{aksu2024toward,
+  title={Toward a Multimodal Deep Learning Approach for Histological Subtype Classification in NSCLC},
+  author={Aksu, Fatih and Gelardi, Fabrizia and Chiti, Arturo and Soda, Paolo},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={6327--6333},
+  year={2024},
+  organization={IEEE}
+}
+```
