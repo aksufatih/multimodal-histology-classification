@@ -1,4 +1,5 @@
 # Toward a Multimodal Deep Learning Approach for Histological Subtype Classification in NSCLC
+<p align="center"><img src="Main_figure_v3.png" width="600"></p>
 
 ## Usage
 
