@@ -1,4 +1,4 @@
-# Multimodal Histology Classification
+# Toward a Multimodal Deep Learning Approach for Histological Subtype Classification in NSCLC
 
 ## Usage
 
